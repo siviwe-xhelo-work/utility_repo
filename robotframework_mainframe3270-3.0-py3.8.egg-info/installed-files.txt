@@ -1,0 +1,13 @@
+..\Mainframe3270\__init__.py
+..\Mainframe3270\__pycache__\__init__.cpython-38.pyc
+..\Mainframe3270\__pycache__\py3270.cpython-38.pyc
+..\Mainframe3270\__pycache__\version.cpython-38.pyc
+..\Mainframe3270\__pycache__\x3270.cpython-38.pyc
+..\Mainframe3270\py3270.py
+..\Mainframe3270\version.py
+..\Mainframe3270\x3270.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+requires.txt
+top_level.txt

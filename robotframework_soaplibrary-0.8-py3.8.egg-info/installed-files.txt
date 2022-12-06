@@ -1,0 +1,13 @@
+..\SoapLibrary\SoapLibrary.py
+..\SoapLibrary\__init__.py
+..\SoapLibrary\__pycache__\SoapLibrary.cpython-38.pyc
+..\SoapLibrary\__pycache__\__init__.cpython-38.pyc
+..\SoapLibrary\__pycache__\config.cpython-38.pyc
+..\SoapLibrary\__pycache__\version.cpython-38.pyc
+..\SoapLibrary\config.py
+..\SoapLibrary\version.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+requires.txt
+top_level.txt

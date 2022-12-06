@@ -1,0 +1,15 @@
+..\DjangoLibrary\__init__.py
+..\DjangoLibrary\__pycache__\__init__.cpython-38.pyc
+..\DjangoLibrary\__pycache__\middleware.cpython-38.pyc
+..\DjangoLibrary\middleware.py
+..\DjangoLibrary\tests\__init__.py
+..\DjangoLibrary\tests\__pycache__\__init__.cpython-38.pyc
+..\DjangoLibrary\tests\__pycache__\factories.cpython-38.pyc
+..\DjangoLibrary\tests\factories.py
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+entry_points.txt
+not-zip-safe
+requires.txt
+top_level.txt
